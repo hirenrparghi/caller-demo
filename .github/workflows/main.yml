@@ -18,3 +18,5 @@ jobs:
   calling-workflow-1:
     name: Calling workflow 11
     uses: hirenrparghi/Reusable-workflow/.github/workflows/first-gh-actions.yml@main
+    with:
+      version: 'v2.1.4'
