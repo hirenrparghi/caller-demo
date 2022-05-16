@@ -15,8 +15,8 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  calling-workflow-1:
-    name: Calling workflow 11
+  calling-workflow-2:
+    name: Calling workflow 1
     uses: hirenrparghi/Reusable-workflow/.github/workflows/first-gh-actions.yml@main
     with:
       version: 'v2.1.4'
