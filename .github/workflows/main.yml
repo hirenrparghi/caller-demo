@@ -20,3 +20,4 @@ jobs:
     uses: hirenrparghi/Reusable-workflow/.github/workflows/first-gh-actions.yml@main
     with:
       version: 'v2.1.4'
+    secrets: inherit
