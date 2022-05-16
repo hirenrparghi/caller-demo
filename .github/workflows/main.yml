@@ -2,7 +2,7 @@
 
 name: Caller Demo
 
-# Controls when the action will run. 
+# Controls when the action will runn. 
 on:
   # Triggers the workflow on push or pull request events but only for the main branchh
   push:
